@@ -1,0 +1,13 @@
+[
+  {
+    "directory": "/home/numb/KYSSILLY_remasted",
+    "command": "g++ -g -I ./include -Werror -pedantic -c ./src/main.cpp -o ./src/main.o",
+    "file": "./src/main.cpp"
+  },
+  {
+    "directory": "/home/numb/KYSSILLY_remasted",
+    "command": "g++ -g -I ./include -Werror -pedantic -c ./src/menuFunc.cpp -o ./src/menuFunc.o",
+    "file": "./src/menuFunc.cpp"
+  }
+]
+
